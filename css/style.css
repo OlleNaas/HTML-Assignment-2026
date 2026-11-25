@@ -246,7 +246,11 @@ textarea {
 
   }
 h1{
-  font-size: 200px;
+  font-size: 50px;
   font-family: "times New Roman", serif;
+  color: rgba( 245 , 39 , 9, 2)   ;
+}
+body {
+  background-color: aqua;
 }
 
